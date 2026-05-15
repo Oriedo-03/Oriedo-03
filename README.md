@@ -7,6 +7,13 @@ I am a passionate software developer from Kenya focused on building modern mobil
 ---
 
 ## 🛠 Tech Stack
+![Kotlin](https://img.shields.io/badge/Kotlin-Android-orange?style=for-the-badge&logo=kotlin)
+
+![Firebase](https://img.shields.io/badge/Firebase-Backend-yellow?style=for-the-badge&logo=firebase)
+
+![Android](https://img.shields.io/badge/Android-Studio-green?style=for-the-badge&logo=android)
+
+![Python](https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python)
 
 - 📱 Android Development (Kotlin, Java, Jetpack Compose)
 - 🔥 Firebase & Supabase
